@@ -14,7 +14,7 @@ const Main = () => {
     <div className='flex flex-col md:flex-row bg-indigo-100 dark:bg-slate-950'>
       <section className='w-auto md:w-[70%] h-full'>
       <div className='w-full flex items-cente justify-between'>
-        <div className='text-indigo-950 m-4 font-bold text-xl md:text-2xl dark:text-transparent bg-clip-text dark:bg-gradient-to-l from-indigo-800 to-pink-800 '>Good Morining, IT Skills Academy</div>
+        <div className='text-indigo-950 m-4 font-bold text-xl md:text-2xl dark:text-transparent bg-clip-text dark:bg-gradient-to-l from-indigo-800 to-pink-800 '>Good Morning, IT Skills Academy</div>
         <div className='flex md:hidden gap-4 items-center justify-end px-4 text-indigo-950 dark:text-slate-800'>
           <IoCalendarOutline/>
           <IoNotificationsOutline/>
